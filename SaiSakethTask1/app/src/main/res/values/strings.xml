@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sai Saketh Task-1</string>
+    <string name="enter_your_age">Enter Your Age:</string>
+    <string name="enter_your_name">Enter Your Name:</string>
+    <string name="omicron_batch">Omicron Batch</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+</resources>
